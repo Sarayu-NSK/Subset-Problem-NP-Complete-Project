@@ -1,4 +1,4 @@
-# Subset Sum-Problem-NP-Complete-Project
+# Subset-Sum-Problem-NP-Complete-Project
 
 The Subset-sum Problem is one of the easiest to
 describe and understand NP-complete problems.
