@@ -18,7 +18,7 @@ return SubsetSum(set, n-1, sum);
 return SubsetSum(set, n-1, sum)|| SubsetSum(set, n-1,
 sum-set[n-1]);
 }
-4
+
 int main()
 {
 int n,sum;
@@ -45,7 +45,6 @@ cout<<"\nYes, there is a subset\n"<<endl;
 }
 else
 {
-5
 cout<<"\nNo, there is no subset\n"<<endl;
 }
 return 0;
